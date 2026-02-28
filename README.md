@@ -38,4 +38,7 @@ A REST API service to identify and consolidate customer identity across multiple
 - `secondaryContactIds` — IDs of all secondary contacts linked to the primary
 
 ## Live URL
-`<will be added after deployment>`
+Base URL: `https://bitespeed-identity-ten.vercel.app`
+
+## API Endpoint
+`POST https://bitespeed-identity-ten.vercel.app/identify`
